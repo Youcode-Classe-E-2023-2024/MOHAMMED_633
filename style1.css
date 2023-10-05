@@ -1,0 +1,15 @@
+.navbar {
+	position: fixed;
+	right: 0;
+	left: 0;
+	width: 100%;
+	padding-left: 0;
+	padding-right: 0;
+	min-height: 50px;
+	line-height: 50px;
+	background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+	z-index: 1030;
+}
+.navbar .nav-item a:hover {
+	color: #6b008e;
+}
